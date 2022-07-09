@@ -1,3 +1,4 @@
+
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
@@ -12,14 +13,14 @@
   <p align="center">
     Crash any Discord voice call using this script!
     <br />
-    <a href="https://github.com/Deidalos-GmbH/Discord-C2-Rootkit/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/deidal0s/Discord_DOS_2022/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Deidalos-GmbH/Discord-C2-Rootkit/">View Demo</a>
+    <a href="https://github.com/deidal0s/Discord_DOS_2022/">View Demo</a>
     ·
-    <a href="https://github.com/Deidalos-GmbH/Discord-C2-Rootkit/issues">Report Bug</a>
+    <a href="https://github.com/deidal0s/Discord_DOS_2022/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Deidalos-GmbH/Discord-C2-Rootkit/issues">Request Feature</a>
+    <a href="https://github.com/deidal0s/Discord_DOS_2022/issues">Request Feature</a>
   </p>
 </div>
 
@@ -100,7 +101,7 @@ node cve.js
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-See the [open issues](https://github.com/Deidalos-GmbH/Discord-C2-Rootkit/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/deidal0s/Discord_DOS_2022/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -129,8 +130,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Prepakis Georgios - [@deidal0s](https://twitter.com/deidal0s) - prepakis.geo@gmail.com
+Prepakis Georgios - [@deidal0s](https://twitter.com/deidal0s) - bd@crime.su
 
-Project Link: [https://github.com/Deidalos-GmbH/Discord-C2-Rootkit/](https://github.com/Deidalos-GmbH/Discord-C2-Rootkit/)
+Project Link: [https://github.com/deidal0s/Discord_DOS_2022/](https://github.com/deidal0s/Discord_DOS_2022/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
